@@ -6,6 +6,10 @@
   url: "/getting-started/"
   side: left
 
+- title: This is Test
+  url: "/getting-started/"
+  side: left
+
 - title: "Templates"
   url: "/design/"
   side: left
